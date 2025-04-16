@@ -1,1 +1,10 @@
-# swfy
+# 规则名称: Talkatone
+# 规则统计: 6
+
+HOST-SUFFIX,mobilefuse.com,Talkatone
+HOST-SUFFIX,talkatone.com,Talkatone
+HOST-SUFFIX,tktn.be,Talkatone
+IP-CIDR,205.164.56.0/24,Talkatone
+IP-CIDR,50.117.27.0/24,Talkatone
+IP-CIDR,69.46.75.0/24,Talkatone
+IP-CIDR,63.251.124.0/24,Talkatone
